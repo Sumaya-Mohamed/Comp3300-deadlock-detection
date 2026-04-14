@@ -1,0 +1,8 @@
+{
+  "state": "DEADLOCK",
+  "deadlocked_processes": [
+    "P1",
+    "P2",
+    "P3"
+  ]
+}
