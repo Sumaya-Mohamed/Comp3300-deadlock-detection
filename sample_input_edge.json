@@ -1,0 +1,15 @@
+{
+  "processes": 3,
+  "resources": 1,
+  "available": [1],
+  "max": [
+    [5],
+    [2],
+    [3]
+  ],
+  "allocation": [
+    [1],
+    [0],
+    [1]
+  ]
+}
